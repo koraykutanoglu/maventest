@@ -1,3 +1,7 @@
-### Relevant Articles:
+A simple Hello World app inspired by the steps from Heroku document "Create a Java Web Application Using Embedded Tomcat"
 
-- [Generate a WAR File in Maven](https://www.baeldung.com/maven-generate-war-file)
+To run locally after cloning the repo,
+
+1. mvn package
+2. sh target/bin/webapp 
+
